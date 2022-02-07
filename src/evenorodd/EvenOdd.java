@@ -6,10 +6,10 @@ public class EvenOdd {
 		
 		Scanner sc = new Scanner(System.in);  
 		System.out.println("Enter any number");
-		int a = sc.nextInt();
+		int num = sc.nextInt();
 		
 		// If remainder is zero then this number is even
-		if (a % 2 == 0) {
+		if (num % 2 == 0) {
 			System.out.println("Number is even");
 		}
 		
