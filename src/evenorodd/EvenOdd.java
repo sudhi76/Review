@@ -14,7 +14,7 @@ public class EvenOdd {
 		}
 		
 		else {
-		// If remainder is not zero then this number is
+		// If remainder is not zero then this number is odd
 			System.out.println("number is odd");
 		}
 
